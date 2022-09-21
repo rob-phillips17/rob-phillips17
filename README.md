@@ -1,7 +1,5 @@
-- 👋 Hi, my name is Rob and I live in Bristol.
-- 👀 I’m interested in becoming a front-end software developer.
+- 👋 Hi, my name is Rob and I'm a front-end software developer.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to begin a career in software development and land my first developer job.
 
 <!---
 rob-phillips17/rob-phillips17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
