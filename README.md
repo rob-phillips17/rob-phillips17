@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Rob and I'm a software developer.
 - ⭐ I write mainly in HTML, SCSS/CSS & JavaScript.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently improving my React skills.
 - 👀 Please check out some of my completed projects to see what I've been up to!
 
 <!---
